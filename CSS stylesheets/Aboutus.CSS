@@ -1,0 +1,34 @@
+body{
+    background-color: #ffe5d9;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    padding-left:2px;
+    padding-right: 20px;
+    
+}
+#title{
+    font-size: 22px;
+    font-weight:Bold;
+    font-size: 4.5rem;
+    font-weight: bold;
+    color:cadetblue;
+}
+#myimage{
+    padding-left: 0px;
+}
+#niceform{
+    margin-top: 10px;
+}
+#sections{
+    margin-block: 2px;
+}
+#OurSections{
+    margin-bottom: 200px;
+    margin-top: 40px;
+}
+#p{
+    color:darkmagenta;
+}
+#Address{
+    color:darkmagenta;
+}

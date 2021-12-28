@@ -1,0 +1,44 @@
+body{
+    background-color:#a8dadc ;
+    font-family: 'Montserrat', sans-serif;
+    padding-left:2px;
+    padding-right: 20px;
+    
+}
+
+#Contact-us-form{
+    margin-bottom: 200px;
+    margin-top: 80px;
+    font-size: 15px;
+    color: cadetblue;
+}
+#info{
+    margin-bottom: 200px;
+    margin-top: 200px;
+    font-size: 20px;
+    color:darkgreen;
+}
+#Our{
+    margin-bottom: 120px;
+    margin-top: 200px;
+}
+#leader{
+    font-weight: bold;
+    color:darkgreen;
+}
+#send:Hover{
+    color: wheat;
+}
+#contact{
+    font-weight: bold;
+    font-size: 60px;
+}
+#p{
+    font-size: 25px;
+    color: cadetblue;
+
+}
+#formGroupExampleInput{
+    color:cadetblue;
+    font-size: 22px;
+}

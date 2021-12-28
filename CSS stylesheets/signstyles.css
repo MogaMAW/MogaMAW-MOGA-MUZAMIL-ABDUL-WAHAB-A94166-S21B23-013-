@@ -1,0 +1,40 @@
+body{
+    background-color: #a8dadc;
+    font-size: 18px;
+}
+form{
+    background-color: #dad7cd;
+    border-radius: 15px;
+    margin-top: 100px;
+}
+.form-contol{
+    border-radius: 2em;
+}
+a{
+    text-decoration: none;
+    color: #344e41;
+    color: white;
+}
+#buttons{
+    background-color: #a3b18a;
+    color: #344e41;
+    justify-content: center;
+    color: white;
+}
+#buttons:hover{
+    color: blue;
+}
+#button2{
+    background-color: #a3b18a;
+    color: white;
+    justify-content: center;
+}
+#button2:hover{
+    color: blue;
+}
+#sign-up-form{
+    border-radius: 12px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+
+}

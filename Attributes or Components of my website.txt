@@ -1,0 +1,16 @@
+ATTRIBUTES/ COMPONENTS OF MY COURSEWORK:
+
+1.indexMOGA MUZAMIL FASHION BLOG.html(index or home or first page).
+2.HOME.html
+3.ABOUTUS.html
+4.CONTACTUS.html
+5.MEN.html
+6.WOMEN.html
+7.KIDS.html
+8.PROMOTIONS.html
+9.Sign in.html
+10.Sign up.html
+11.bootstrap downloaded file consisting of CSS and JS files
+12.CSS Stylesheets having #mogastylesheet.CSS,#Home.CSS, #AboutUs.CSS,#ContactUs.CSS,#Kids.CSS, #sign in.CSS, and sign up.CSS
+13.Myimages folder
+14.image2 folder

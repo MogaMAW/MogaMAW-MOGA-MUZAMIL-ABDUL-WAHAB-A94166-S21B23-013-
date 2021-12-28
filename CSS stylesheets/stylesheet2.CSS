@@ -1,0 +1,42 @@
+body{
+    background-color:wheat;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    padding-left:2px;
+    padding-right: 20px;
+}
+#heads{
+    font-weight: bold;
+    font-display:inherit;
+    color: cadetblue;
+}
+#Images{
+    height: 430px;
+    width:300px;
+}
+#color{
+    color:tomato;
+    font-weight: bold;
+}
+#card-title{
+    font-size: 18px;
+    font-weight: bold;
+    font-family:'Montserrat', sans-serif;
+    color:cadetblue;
+}
+#card{
+   background-color: wheat;
+   border: wheat;
+}
+#head{
+    color:#344e41;
+}
+#color{
+    background-color: yellow;
+}
+strike{
+    font-weight: bold;
+}
+#p{
+    font-weight: bold;
+}

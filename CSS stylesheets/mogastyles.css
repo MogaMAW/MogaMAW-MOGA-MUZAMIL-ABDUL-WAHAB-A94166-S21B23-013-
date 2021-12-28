@@ -1,0 +1,87 @@
+body{
+    background-color: #dad7cd;
+    font-family: 'Montserrat', sans-serif;
+    padding-left:2px;
+    padding-right: 20px;
+    color:cadetblue;
+}
+#heading{
+    font-size: 4.5rem;
+    font-weight: 410;
+    color: #344e41;
+}
+#first{
+    color: #344e41;
+}
+#first:hover{
+    color: white;
+}
+#mynavband{
+    font-weight: 500;
+    font-size: 1.5rem;
+    color: #344e41;
+}
+#mynavband:hover{
+    color: white;
+}
+#content{
+    margin-bottom: 100px;
+    align-items: center;
+}
+p{
+    font-size: 1.3rem;
+    color: #344e41;
+}
+#contact-button{
+    background-color: #97a97c;
+    border:none;
+    font-weight: bold;
+}
+#lady{
+    margin-top: 100px;
+
+}
+#kids{
+
+    height: 1020px;
+    width: 4860px;
+
+}
+#smartkid{
+    margin-bottom: 100px;
+}
+#first{
+    font-weight: bold;
+}
+#Contact-us-form{
+    margin-bottom: 200px;
+    margin-top: 90px;
+    font-size: 15px;
+}
+#info{
+    margin-bottom: 200px;
+    margin-top: 100px;
+    font-size: 20px;
+    color:cadetblue;
+}
+#image{
+    width: 300px;
+    height: 500px;
+    padding-left: 5;
+}
+#leader{
+    font-size: 25px;
+    font-weight: bold;
+    color:cadetblue;
+}
+#pag{
+    color:black;
+}
+#search{
+    background-color: blue;
+    color:white;
+    font-size: 15px;
+}
+#every{
+    font-size: 20px;
+}
